@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub metrics" />
+<img src="https://raw.githubusercontent.com/EmnaRekiik/EmnaRekiik/main/github-metrics.svg" ...>
 
 </div>
 
