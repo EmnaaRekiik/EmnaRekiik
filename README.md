@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EmnaRekiik/EmnaRekiik/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/EmnaaRekiik/EmnaaRekiik/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
