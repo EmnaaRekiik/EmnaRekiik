@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EmnaRekiik/EmnaRekiik/main/github-metrics.svg" ...>
+<img src="https://raw.githubusercontent.com/EmnaaRekiik/EmnaaRekiik/main/github-metrics.svg" ...>
 
 </div>
 
